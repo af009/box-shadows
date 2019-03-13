@@ -1,15 +1,15 @@
 {
-  "main.css": "/box-shadows/static/css/main.3740799e.chunk.css",
-  "main.js": "/box-shadows/static/js/main.4b5283e2.chunk.js",
-  "main.js.map": "/box-shadows/static/js/main.4b5283e2.chunk.js.map",
-  "static/css/1.226734af.chunk.css": "/box-shadows/static/css/1.226734af.chunk.css",
-  "static/js/1.a234e70b.chunk.js": "/box-shadows/static/js/1.a234e70b.chunk.js",
-  "static/js/1.a234e70b.chunk.js.map": "/box-shadows/static/js/1.a234e70b.chunk.js.map",
-  "runtime~main.js": "/box-shadows/static/js/runtime~main.5fffea91.js",
-  "runtime~main.js.map": "/box-shadows/static/js/runtime~main.5fffea91.js.map",
-  "static/css/1.226734af.chunk.css.map": "/box-shadows/static/css/1.226734af.chunk.css.map",
-  "static/css/main.3740799e.chunk.css.map": "/box-shadows/static/css/main.3740799e.chunk.css.map",
+  "main.css": "/box-shadows/static/css/main.991fc736.chunk.css",
+  "main.js": "/box-shadows/static/js/main.49dcf846.chunk.js",
+  "main.js.map": "/box-shadows/static/js/main.49dcf846.chunk.js.map",
+  "runtime~main.js": "/box-shadows/static/js/runtime~main.3ca28a11.js",
+  "runtime~main.js.map": "/box-shadows/static/js/runtime~main.3ca28a11.js.map",
+  "static/css/2.777e8c18.chunk.css": "/box-shadows/static/css/2.777e8c18.chunk.css",
+  "static/js/2.03183769.chunk.js": "/box-shadows/static/js/2.03183769.chunk.js",
+  "static/js/2.03183769.chunk.js.map": "/box-shadows/static/js/2.03183769.chunk.js.map",
   "index.html": "/box-shadows/index.html",
-  "precache-manifest.bfdd4f8097aa71d20b62ebabe93864c1.js": "/box-shadows/precache-manifest.bfdd4f8097aa71d20b62ebabe93864c1.js",
-  "service-worker.js": "/box-shadows/service-worker.js"
+  "precache-manifest.67ed7130b01de1886ec44613ccf0ebee.js": "/box-shadows/precache-manifest.67ed7130b01de1886ec44613ccf0ebee.js",
+  "service-worker.js": "/box-shadows/service-worker.js",
+  "static/css/2.777e8c18.chunk.css.map": "/box-shadows/static/css/2.777e8c18.chunk.css.map",
+  "static/css/main.991fc736.chunk.css.map": "/box-shadows/static/css/main.991fc736.chunk.css.map"
 }
